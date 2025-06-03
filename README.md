@@ -1,1 +1,1 @@
-# sql
+Hello, welcome to my SQL portfolio. This is a repository containing examples of SQL queries I've written. Feel free to take a look and reach out if you have a question at dane94smith@gmail.com. Thanks!
